@@ -32,7 +32,7 @@ I am a **Data Engineer at TCS**, specializing in building high-throughput, real-
 
 ## 🚀 Featured Projects
 
-### 🍕 [Real-Time Food Delivery Data Pipeline](https://github.com)
+### 🍕 [Real-Time Food Delivery Data Pipeline](https://github.com/adarsh-singh3/fooddelivery-streaming-pipeline)
 > **Stack:** `Azure Service Bus` • `Azure Databricks` • `Unity Catalog` • `PySpark` • `Delta Lake` • `Power BI`
 
 - Built a real-time pipeline streaming order events from Python through Azure Service Bus into a Databricks Delta Lake Medallion architecture (Bronze → Silver → Gold) using Spark Structured Streaming, watermark-based deduplication, and foreachBatch; governed with Unity Catalog.
@@ -41,7 +41,7 @@ I am a **Data Engineer at TCS**, specializing in building high-throughput, real-
 
 <br>
 
-### 💻 [SQL Practice Platform](https://github.com)
+### 💻 [SQL Practice Platform](https://github.com/adarsh-singh3/sql-practice-platform)
 > **Stack:** `Vanilla JS` • `SQLite (WASM)` • `PostgreSQL (WASM)` • `sql.js` • `PGlite`
 
 A browser-based SQL practice platform for data engineers — write and run real SQL against SQLite and PostgreSQL (via WASM), directly in the browser, no backend required.
