@@ -14,15 +14,29 @@
 - **Coding Ninjas (Code360):** [naukri.com/code360/profile/CodewithRabbit](https://www.naukri.com/code360/profile/CodewithRabbit)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshkrs93@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/aks930) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshkrs93@gmail.com) 
+
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **🗄️ Languages & Databases** | `Python` • `PySpark` • `Spark SQL` • `PostgreSQL` • `KQL` • `Microsoft SQL Server` • `JavaScript` |
+| **☁️ Microsoft Fabric** | `Lakehouse` • `Eventhouse (KQL)` • `ETL / ELT Pipelines` • `CDC Eventstream` • `Real-Time Dashboards` |
+| **⚡ Azure Platforms** | `Azure Databricks` • `Delta Lake` • `Unity Catalog` • `Azure Data Factory (ADF)` • `Event Hub` • `ADLS Gen2` |
+| **📊 Data Engineering** | `Real-time Streaming` • `Medallion Architecture` • `Data Warehousing` • `Power BI` |
+| **🤖 Generative AI** | `Azure OpenAI` • `LangChain` |
+| **🛠️ DevOps & Tools** | `Git` • `GitHub` • `REST APIs` • `CI/CD Pipelines` • `Postman` • `Jira` • `Agile` |
+
+
 # 📊 GitHub Stats:
-![](https://shion.dev)<br/>
-![](https://demolab.com)<br/>
-![](https://shion.dev)
+![](https://github-readme-stats.shion.dev/api?username=adarsh-singh3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=adarsh-singh3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adarsh-singh3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-[![](https://komarev.com)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=adarsh-singh3&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
